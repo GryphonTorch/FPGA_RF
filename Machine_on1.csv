@@ -1,24 +1,3 @@
-Model,MDO3104
-Firmware Version,1.30
-
-Waveform Type,RF_FD
-Point Format,Y
-Horizontal Units,Hz
-Horizontal Scale,2e+07
-,
-Sample Interval,266667
-Record Length,751
-Gating,0.133155792277% to 100.0%
-Probe Attenuation,1
-Vertical Units,dBm
-Vertical Offset,0
-Vertical Scale,10
-Vertical Position,0
-Center Frequency,1.1e+08
-Span,2e+08
-Reference Level,0
-Label,
-FREQUENCY,FD NORM
 1.000000000e+07,-73.0469
 1.026666667e+07,-79.1607
 1.053333333e+07,-67.9781
